@@ -9,9 +9,9 @@
 </style>
 <g>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="50.3155" y1="139.4155" x2="461.9402" y2="377.067" gradientTransform="matrix(1 0 0 -1 0 514)">
-		<stop  offset="2.770450e-07" style="stop-color:#006220"/>
-		<stop  offset="1" style="stop-color:#4CBF6E"/>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="50.2925" y1="940.592" x2="461.9302" y2="702.933" gradientTransform="matrix(1 0 0 1 0 -566)">
+		<stop  offset="7.922832e-07" style="stop-color:#233F8C"/>
+		<stop  offset="0.9959" style="stop-color:#150F28"/>
 	</linearGradient>
 	<path class="st0" d="M302.9,0v209.8H504v90.5H302.9V512h-94.3V300.3H7.4v-90.5h201.1V0H302.9z"/>
 	<rect x="-488" y="-10" class="st1" width="98" height="83"/>
