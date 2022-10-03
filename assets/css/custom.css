@@ -1197,6 +1197,7 @@ padding: 0px;
     
     body[data-sidebar=dark] .menu-title {
         /* color: #1fb355; */
+        display: none;
     }
     #kev-step-form nav{
         padding: 1rem;
